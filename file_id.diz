@@ -1,0 +1,5 @@
+This program reports the full path name
+of a DLL.
+When multiple instances of a single DLL
+are present the program finds which one
+is actually used by the system.
